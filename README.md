@@ -1,192 +1,260 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:02569B&height=200&section=header&text=Shahid%20Momin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20%E2%80%A2%20Django%20REST%20%E2%80%A2%20React%20%E2%80%A2%20Java&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:02569B&height=200&section=header&text=Shahid%20Momin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Flutter%20%7C%20Django%20REST%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Django+REST+Framework+Enthusiast;Building+Cross-Platform+Apps;MCA+Student+%40+PCCOE+(2027)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Python+%2B+Django+REST+Framework+Backend+Developer;Cross-Platform+Flutter+Mobile+App+Developer;Full-Stack+Engineer+(React.js+%2B+DRF);Exploring+GenAI+%2F+RAG+with+LangChain+%26+LLMs;MCA+Student+%40+PCCOE+%E2%80%94+98.92+Percentile+in+MCA+CET" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍-Pune,_Maharashtra,_India-lightgrey?style=flat-square"/>
 <img src="https://img.shields.io/badge/🎓-MCA_@_PCCOE_(SGPA_8.9)-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/📈-98.92_Percentile_MCA_CET-success?style=flat-square"/>
 <img src="https://img.shields.io/badge/🏅-Bluepineapple_Campus_Connect-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/▶️-30K%2B_YouTube_Subscribers-red?style=flat-square&logo=youtube&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/shahid-momin-13b148368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shahidmomin854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+919168987471"><img src="https://img.shields.io/badge/+91_9168987471-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://portfolio-website-indol-chi-81.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Shahid-Momin-786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Shahid-Momin-786&style=for-the-badge&color=0077B5" alt="profile views"/>
 
+**🟢 Actively looking for Full-Stack / Backend / Flutter / SDE Trainee opportunities — hiring managers, please reach out!**
+
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+## 👋 About Me
+
+I'm an **MCA student at PCCOE, Pune (SGPA 8.9)**, scored **98.92 percentile in MCA CET**, and I build production-style **full-stack, mobile, and AI-powered applications** end to end — from database schema to deployed UI.
 
 ```yaml
-name: Shahid Momin
-role: Full-Stack Developer (Flutter • Django REST • React)
-education: MCA @ PCCOE, Pune (SGPA 8.9) — Class of 2027
-focus: Cross-platform mobile apps + scalable backend systems
-dsa: 180+ problems solved on LeetCode
-status: 🔍 Open to Full-Stack / Backend / Flutter Developer roles
+role_focus:      Backend Developer (Django/DRF) · Flutter Mobile Developer · Full-Stack Engineer
+also_exploring:  Generative AI / RAG systems with LangChain, FastAPI & vector databases
+core_strength:   REST API design · JWT auth & RBAC · Relational DB modeling · Clean architecture
+dsa:             180+ problems solved on LeetCode (Arrays, Strings, Linked Lists, Stacks, Queues)
+recognition:     Selected — Bluepineapple Campus Connect Program (industry mentorship)
+side_project:    Run a YouTube channel with 30,000+ subscribers (content, communication, consistency)
+status:          🔍 Open to Full-Stack / Backend / Flutter Developer & SDE Trainee roles
 ```
 
-- 📱 **Flutter Developer** — cross-platform apps with Flutter, Dart, Firebase & Django REST integration
-- 🐍 **Python Backend Developer** — Django, DRF, JWT auth, RBAC, DB design, full-stack integration
-- 🏅 Selected for the **Bluepineapple Campus Connect Program** — industry mentorship & professional development
-- 🎯 Actively preparing for full-stack / backend / Flutter developer placement drives
+- 🐍 **Backend Developer** — I design and ship secure, scalable REST APIs with **Django & DRF**: JWT authentication with token refresh, role-based access control (RBAC), normalized schema design, and Django ORM query optimization.
+- 📱 **Flutter Developer** — I build cross-platform mobile apps with **Flutter/Dart**, clean/feature-based architecture, Provider & Riverpod state management, Firebase, WebSockets, and FCM push notifications.
+- 💻 **Full-Stack Engineer** — I connect **React.js** frontends to secured Django REST backends, building complete booking/ticketing/admin systems end to end.
+- 🤖 **AI/ML & GenAI** — I've built regression models (Scikit-learn) and a **RAG pipeline** (LangChain + FastAPI + ChromaDB) that answers questions grounded in uploaded documents using LLM APIs.
+- 🧪 Comfortable with **manual/API testing** — test case design, STLC, defect lifecycle, and Postman-driven API validation.
+- 🎯 Currently preparing for full-stack / backend / Flutter developer **campus placement drives**.
 
 <br/>
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr><td valign="top" width="18%"><b>Languages</b></td><td>
 
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Mobile & Frontend**
-<br/>
+</td></tr>
+<tr><td valign="top"><b>Backend & APIs</b></td><td>
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+*REST APIs · RBAC · Django ORM · Token Refresh · Django Channels (WebSockets)*
+
+</td></tr>
+<tr><td valign="top"><b>Frontend & Mobile</b></td><td>
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
-<br/>
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+*Provider · Riverpod state management · Responsive & adaptive UI*
 
-**Databases**
-<br/>
+</td></tr>
+<tr><td valign="top"><b>Databases</b></td><td>
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**State Management, Auth & Tools**
-<br/>
-![Provider](https://img.shields.io/badge/-Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/-Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+</td></tr>
+<tr><td valign="top"><b>AI / ML & GenAI</b></td><td>
+
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+*Regression, Random Forest, EDA, Feature Engineering, RAG, Vector DBs (ChromaDB/FAISS), Prompt Engineering, AI Agents*
+
+</td></tr>
+<tr><td valign="top"><b>Tools & Practices</b></td><td>
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-</div>
+*SDLC · Agile/Scrum · Manual & API Testing (STLC, Defect Lifecycle) · QR Code Integration · jsPDF*
+
+</td></tr>
+</table>
 
 <br/>
 
 ## 🌟 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>🚕 Smart Transport Management System (SMTS)</b> — Full-Stack Transport Platform · <i>May 2026 – Present</i></summary>
+<br/>
 
-### 🏏 Smart Turf
-**Real-time Cricket Matchmaking Platform** · *Apr 2026 – Present*
+`React.js` `Django REST Framework` `PostgreSQL / SQLite` `Tailwind CSS` `JWT` `QR Code` `jsPDF`
 
-`Flutter` `Django` `DRF` `PostgreSQL` `WebSockets` `Riverpod`
+Full-stack transport platform with **3 role tiers** (Passenger, Depot Admin, Super Admin) and **25+ REST API endpoints** for ticket booking, pass management, and route administration.
 
-Full-stack platform for real-time player matchmaking, team challenges, and role-based match management using Django Channels.
+- 🏗️ Architected the complete role-based system — booking flows, pass management, multi-depot admin controls
+- 📍 Engineered a **GPS-free ETA calculation engine** using predefined route stop timings + real-time delay propagation — no third-party location APIs needed
+- 🎫 Built QR-code-based ticketing with JWT-secured pass issuance and jsPDF-generated documents
+- 💻 Built the React.js frontend integrated with secured REST APIs for real-time booking & admin dashboards
+- 🧪 Manually tested & validated all 25+ endpoints via Postman — booking flows, error handling, role-based access boundaries
+- 📄 Document verification workflows for daily & long-term passes
 
-- ⚡ JWT auth with RBAC and token refresh
-- 🏗️ Modular Flutter codebase — clean architecture, feature folders
-- 💬 Real-time chat, FCM push notifications, player ratings
-- 🎨 Custom widget library with 60fps animations
+`🔗 Repo — github.com/Shahid-Momin-786/Smart-Transport-Solution`
+
+</details>
+
+<details>
+<summary><b>🏏 Smart Turf / PlayXI</b> — Real-Time Cricket Matchmaking Platform · <i>Apr 2026 – Present</i></summary>
+<br/>
+
+`Flutter` `Dart` `Django REST Framework` `PostgreSQL` `WebSockets (Django Channels)` `Provider / Riverpod`
+
+Full-stack **Flutter + Django REST** platform for real-time player matchmaking, team challenges, and role-based match management.
+
+- ⚡ Real-time features via **Django Channels (WebSockets)** — live chat, matchmaking, notifications
+- 🔐 JWT authentication with RBAC and token refresh, backed by a normalized PostgreSQL schema
+- 🏗️ Modular Flutter codebase — clean architecture, feature-based folder structure
+- 🏆 ELO-based team ratings, waiting-pool matchmaking, player ratings & leaderboards
+- 🔔 FCM push notifications, custom widget library with smooth **60fps animations** via `AnimationController`
+- 💾 SharedPreferences for session persistence
+- 🧪 Manual & widget-level testing on matchmaking, chat, and leaderboard screens
 
 `🔗 Repo — not public yet`
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🚕 Smart Transport Management System
-**SMTS — Multi-Role Transport Platform** · *May 2026 – Present*
+<details>
+<summary><b>💼 CampusEarn</b> — Hyperlocal Student Job Marketplace · <i>Mar 2026 – Present</i></summary>
+<br/>
 
-`React` `DRF` `SQLite` `Tailwind` `JWT` `QR Code` `jsPDF`
+`Flutter` `Django REST Framework` `JWT` `Provider`
 
-Full-stack transport platform with 3 role tiers and 25+ REST API endpoints.
+Cross-platform app connecting students with part-time jobs, secured end to end with JWT-based REST APIs.
 
-- 📍 **GPS-free ETA engine** using route timings + real-time delay propagation
-- 🎫 QR-code ticketing with JWT-secured pass issuance
-- 📄 Document verification, multi-depot admin controls
-
-`🔗 Repo — add link here`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 CampusEarn
-**Hyperlocal Student Job Marketplace** · *Mar 2026 – Present*
-
-`Flutter` `Django` `DRF` `JWT` `Provider`
-
-Cross-platform app connecting students with part-time jobs via JWT-secured REST APIs.
-
-- 🔀 Multi-role API (Student/Employer) — 15+ endpoints
-- 📍 Location-based job filtering, employer dashboard
-- 🧪 Widget tests with `flutter_test`, SharedPreferences caching
-- 💀 Responsive adaptive UI with skeleton loading
+- 🔀 Multi-role REST API (Student / Employer) across **15+ endpoints** — job CRUD, application lifecycle, employer verification
+- 📍 Location-based job filtering with indexed queries for efficient geospatial retrieval
+- 📊 Employer dashboard, multi-stage application tracking, role-based data isolation
+- 🧩 15+ reusable custom widgets, centralized API error-handling service layer
+- 🧪 Widget tests for auth & job-listing screens using `flutter_test`
+- 💀 Responsive adaptive UI (phone/tablet) with skeleton loading + SharedPreferences caching
 
 **[🔗 View Repo](https://github.com/Shahid-Momin-786/CampusEarn)**
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 💬 Real-Time Chat Application
-**Firebase-Powered Messaging App** · *Jan 2026 – Mar 2026*
+<details>
+<summary><b>🎤 SpeakCampus</b> — Role-Based English Speaking Platform · <i>Feb 2026 – Mar 2026</i></summary>
+<br/>
 
-`Flutter` `Firebase` `FCM` `Hive`
+`Django` `SQLite` `HTML/CSS/Bootstrap` `JavaScript`
 
-Real-time messaging app with Firebase Auth, Firestore, and FCM push notifications.
+Multi-tenant EdTech platform with **3 portals** (College Admin, Tutor, Student) for speaking contests, submissions, and evaluations — **live at speakcampus.onrender.com**.
 
-- 📴 Offline message caching with Hive
-- ✅ Read receipts with optimistic UI via `StreamBuilder`
-- ✨ Fluid chat UI with `AnimatedList`
-
-`🔗 Repo — not public yet`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 SpeakCampus
-**Role-Based English Speaking Platform** · *Feb 2026 – Mar 2026*
-
-`Django` `SQLite` `HTML/CSS/JS`
-
-Role-based platform with 3 portals (College, Tutor, Student) and permission-scoped access.
-
-- 🗂️ Normalized relational schema design
-- 🎬 Multimedia submission pipeline, tutor evaluation
-- 🏆 Dynamic leaderboards via modular architecture
+- 🔐 RBAC via a customized Django `AbstractUser` model for 3 distinct roles
+- 🏢 College-level **data isolation** enforced with Foreign Keys & DB constraints
+- 🎬 Multimedia (audio/video) submission pipeline + automated tutor evaluation & feedback system
+- 🗂️ Normalized relational schema design, optimized Django ORM queries for fast dashboards
+- 🏆 Dynamic, real-time leaderboards
+- 🚀 Deployed on Render
 
 `🔗 Repo — add link here`
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 📁 More Projects
+<details>
+<summary><b>🧠 Doc Q&A Assistant</b> — Retrieval-Augmented Generation (RAG) System · <i>GenAI Project</i></summary>
+<br/>
 
-Explore the rest of my work — experiments, smaller builds, and ongoing side projects.
+`Python` `LangChain` `FastAPI` `ChromaDB` `LLM APIs`
 
-**[🔗 View All Repositories →](https://github.com/Shahid-Momin-786?tab=repositories)**
+An end-to-end **RAG pipeline** that ingests PDF documents and answers natural-language questions grounded in the retrieved context.
 
-</td>
-</tr>
-</table>
+- 📥 Document ingestion → chunking → embeddings → vector storage in **ChromaDB** for semantic retrieval
+- ⚙️ **FastAPI** backend exposing endpoints for document upload and Q&A
+- 🤖 Integrated an LLM API to generate context-aware, grounded answers
+- 🔗 Combined classical NLP preprocessing with modern LLM-based retrieval + generation
+
+`🔗 Repo — add link here`
+
+</details>
+
+<details>
+<summary><b>💬 Real-Time Chat Application</b> — Firebase-Powered Messaging App · <i>Jan 2026 – Mar 2026</i></summary>
+<br/>
+
+`Flutter` `Firebase` `FCM` `Hive`
+
+Real-time messaging app with Firebase Auth, Cloud Firestore, and FCM push notifications (foreground + background).
+
+- 📴 Offline message caching with **Hive** (local NoSQL)
+- ✅ Read receipts with optimistic UI updates via `StreamBuilder`
+- ✨ Fluid chat UI with `AnimatedList` message animations
+- ⚙️ SharedPreferences for persisting notification & theme preferences
+
+`🔗 Repo — add link here`
+
+</details>
+
+<details>
+<summary><b>🧬 Mental Health Score Prediction</b> — Machine Learning Regression System</summary>
+<br/>
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
+
+End-to-end ML regression system predicting mental health scores from behavioral features.
+
+- 🧹 Data preprocessing, EDA & feature engineering on user/behavioral data
+- 📊 Compared **Linear Regression vs Random Forest Regressor**
+- 🎯 Achieved **R² = 0.87**, **MAE ≈ 0.34** using Random Forest tuned with `RandomizedSearchCV`
+- 🚀 Deployed live predictions via **Streamlit**
+
+`🔗 Repo — add link here`
+
+</details>
+
+<div align="center">
+
+**[📂 View All Repositories →](https://github.com/Shahid-Momin-786?tab=repositories)**
+
+</div>
 
 <br/>
 
@@ -214,6 +282,7 @@ Explore the rest of my work — experiments, smaller builds, and ongoing side pr
 **🎓 Master of Computer Applications (MCA)**
 PCCOE, Pune · SGPA 8.9
 Sep 2025 – Jun 2027
+📈 98.92 percentile in MCA CET
 
 </td>
 <td width="50%" valign="top">
@@ -226,7 +295,15 @@ Jun 2022 – Mar 2025
 </tr>
 </table>
 
-**📜 Certifications:** Flutter & Dart – The Complete Guide · Python Programming · Java Programming · SQL Bootcamp (Udemy)
+<br/>
+
+## 🏆 Achievements & Recognition
+
+- 📈 Scored **98.92 percentile** in MCA CET
+- 🏅 Selected for the **Bluepineapple Campus Connect Program** — industry mentorship & professional development
+- 💻 **180+ DSA problems solved** on LeetCode (Arrays, Strings, Linked Lists, Stacks, Queues)
+- ▶️ Runs a **YouTube channel with 30,000+ subscribers** — content creation, communication & self-initiative
+- 📜 **Certifications (Udemy):** Flutter & Dart – The Complete Guide · Python Programming · Java Programming · SQL Bootcamp
 
 <br/>
 
@@ -234,10 +311,11 @@ Jun 2022 – Mar 2025
 
 <div align="center">
 
-I'm actively looking for **full-stack / backend / Flutter developer** opportunities — let's build something great together!
+I'm actively looking for **Full-Stack / Backend / Flutter Developer / SDE Trainee** opportunities — recruiters and hiring managers, feel free to reach out!
 
 <a href="https://www.linkedin.com/in/shahid-momin-13b148368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shahidmomin854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+919168987471"><img src="https://img.shields.io/badge/Call-+91_9168987471-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://portfolio-website-indol-chi-81.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
